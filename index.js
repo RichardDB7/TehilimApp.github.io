@@ -304,23 +304,23 @@ const salmos = [
     nombre: 'Salmo: 76 (Para apartar peligros del fuego y el agua)<br><br>', 
     OtrasSegulot: 'Otras Segulot<br><br>1. Contra las tempestades (Recitar en martes)<br>2. Para apartar a los espíritus que perturban el reposo (Recitar en martes)<br>3. Para suavizar los juicios y atraer la bondad (Recitar en jueves)<br><br> El Material ampliado se encuentra en el Shiur 11'},
 
-    //Continuar en el shiur 12
-
     {Categoria:'Apartar, Carencia, Peligros, 77<br><br>', 
     nombre: 'Salmo: 77 (Para apartar las carencias y los peligros)<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Contra el insomnio (Recitar en martes)<br>2. Contra los recuerdos que atormentan (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    OtrasSegulot: 'Otras Segulot<br><br>1. Contra el insomnio (Recitar en martes)<br>2. Contra los recuerdos que atormentan (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 11'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 78 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Gracia, Favor, Gobernantes 78<br><br>', 
+    nombre: 'Salmo: 78 (Para recibir gracia y el favor de los gobernantes)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protege a los profesores y educadores (Recitar en martes)<br>2. Para facilitar la obediencia de los hijos (Recitar en viernes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 79 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Adversiarios, Oponentes, Opositores, 79<br><br>', 
+    nombre: 'Salmo: 79 (Contra los adversarios y los oponentes)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para apartar la envidia (Recitar en martes)<br>2. Para apartar a los mofadores (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 80 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Librarse, Incredulidad, 80<br><br>', 
+    nombre: 'Salmo: 80 (Para librarse de la incredulidad)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para destacarse en la profesión y/o oficio (Recitar en los días domingos y martes)<br>2. Para librarse de las ideologías de los impíos (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
+
+    //Continuar en shiur 12
 
     {Categoria:'Protección, Opositores, 44<br><br>', 
     nombre: 'Salmo: 81 ()<br><br>', 
