@@ -320,49 +320,50 @@ const salmos = [
     nombre: 'Salmo: 80 (Para librarse de la incredulidad)<br><br>', 
     OtrasSegulot: 'Otras Segulot<br><br>1. Para destacarse en la profesión y/o oficio (Recitar en los días domingos y martes)<br>2. Para librarse de las ideologías de los impíos (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    //Continuar en shiur 12
+    {Categoria:'Incredulidad, Faltas, 81<br><br>', 
+    nombre: 'Salmo: 81 (Contra de la incredulidad y las faltas)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para recitar al inicio del mes (Rósh Jódesh/דשֶׁחֹ אשֹׁר)<br>2. Facilita el aprendizaje de idiomas (Recitar en miércoles)<br>3. Para librarse de las ideologías de los impíos (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 81 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Éxito, Emisario, 82<br><br>', 
+    nombre: 'Salmo: 82 (Para obtener éxito a través de un emisario)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra los ataques de los animales (Recitar en martes)<br>2. Amparo para los que sufren carencias (Recitar en jueves)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 82 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Librar, Soldados, 83<br><br>', 
+    nombre: 'Salmo: 83 (Para librar a los soldados de todo peligro)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra las conspiraciones de las otras naciones (Recitar en martes)<br>2. Para alcanzar el éxito en los emprendimientos (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 83 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Apartar, Quitar, Mal Olor, 84<br><br>', 
+    nombre: 'Salmo: 84 (Para apartar un mal olor corporal)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para encontrar la vivienda apropiada (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 7'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 84 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Reconciliarse, Amigo, 85<br><br>', 
+    nombre: 'Salmo: 85 (Para reconciliarse con un amigo)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para tener una cosecha abundante (Recitar en martes)<br>2. Para vincularse a la energía de la paz (Recitar en viernes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 85 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Evitar, Bienestar, 86<br><br>', 
+    nombre: 'Salmo: 86 (Evitar el mal y promover el bienestar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Aleja las fuerzas impuras (Recitar en martes)<br>2. Protección para los hijos de todo peligro (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 86 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Controlar, Bienestar, 87<br><br>', 
+    nombre: 'Salmo: 87 (Para controlar el mal y promover el bienestar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Contra los vicios (Recitar en martes)<br>2. Para librarse de la depresión (Recitar en domingo)<br>3. Para que los hijos sean obedientes/observantes (Recitar en viernes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 87 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Promover, Bienestar, 88<br><br>', 
+    nombre: 'Salmo: 88 (Para promover el bienestar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Brinda protección a los líderes (Recitar en martes)<br>2. Para remover los resentimientos (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 88 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Apartar, Enfermedad, Grave, 89<br><br>', 
+    nombre: 'Salmo: 89 (Para apartar una enfermedad grave)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Favorece la fidelidad en las pareja (Recitar en viernes)<br>2. Otorga tranquilidad y sabiduría para actuar (Recitar en viernes)<br>3. Para que los niños abracen el estudio (Recitar en miércoles)<br>4. Para quienes perdieron una extremidad o un organo por causa de una enfermedad(Recitar en domingo).<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 89 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
-
-    {Categoria:'Protección, Opositores, 44<br><br>', 
-    nombre: 'Salmo: 90 ()<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Para tiempos difíciles de una nación, estado o un pueblo (Recitar en jueves)<br>2. Protección contra los robos y secuestros (Recitar en martes)<br>3. Para hacer buenas alianzas (Recitar en martes)<br>4. Para sanación de la urticaria (Recitar en domingo)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    {Categoria:'Apartar, Fuerza Dañina, Espectros, 90<br><br>', 
+    nombre: 'Salmo: 90 (Para apartar fuerzas dañinas y espectros)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra las pesadillas y las visiones (Recitar en martes)<br>2. Protección durante un viaje nocturno (Recitar en martes)<br>3. Para alejar las adicciones (Recitar en martes)<br>4. Para obtener el fruto del trabajo (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 7'},
 
 
+
+
+    
     //{Categoria:'Contra Enemigos, Salud', nombre: 'Salmo: 2 (Dolores de Cabeza)', OtrasSegulot: '1. Para apaciguar la tormenta interior.2. Para alejar las guerras y a los tiranos que oprimen a un pueblo o a una nación.3. Para recitar cuando un pueblo o una nación tenga que escoger a sus gobernantes.4. Para encontrar abrigo en el Eterno y recuperar la dignidad.5. Para desarrollar la intuición y la facultad de la sanación. El Material ampliado se encuentra en el Shiur 2 '},
     
 
