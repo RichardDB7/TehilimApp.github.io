@@ -363,7 +363,7 @@ const salmos = [
 
 
 
-    
+
     //{Categoria:'Contra Enemigos, Salud', nombre: 'Salmo: 2 (Dolores de Cabeza)', OtrasSegulot: '1. Para apaciguar la tormenta interior.2. Para alejar las guerras y a los tiranos que oprimen a un pueblo o a una nación.3. Para recitar cuando un pueblo o una nación tenga que escoger a sus gobernantes.4. Para encontrar abrigo en el Eterno y recuperar la dignidad.5. Para desarrollar la intuición y la facultad de la sanación. El Material ampliado se encuentra en el Shiur 2 '},
     
 
@@ -446,3 +446,5 @@ function ajustarAncho() {
       }
     });
   }
+
+  
