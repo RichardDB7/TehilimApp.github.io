@@ -312,7 +312,7 @@ const salmos = [
     nombre: 'Salmo: 78 (Para recibir gracia y el favor de los gobernantes)<br><br>', 
     OtrasSegulot: 'Otras Segulot<br><br>1. Protege a los profesores y educadores (Recitar en martes)<br>2. Para facilitar la obediencia de los hijos (Recitar en viernes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
-    {Categoria:'Adversiarios, Oponentes, Opositores, 79<br><br>', 
+    {Categoria:'Adversarios, Oponentes, Opositores, 79<br><br>', 
     nombre: 'Salmo: 79 (Contra los adversarios y los oponentes)<br><br>', 
     OtrasSegulot: 'Otras Segulot<br><br>1. Para apartar la envidia (Recitar en martes)<br>2. Para apartar a los mofadores (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
@@ -358,12 +358,41 @@ const salmos = [
 
     {Categoria:'Apartar, Fuerza Dañina, Espectros, 90<br><br>', 
     nombre: 'Salmo: 90 (Para apartar fuerzas dañinas y espectros)<br><br>', 
-    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra las pesadillas y las visiones (Recitar en martes)<br>2. Protección durante un viaje nocturno (Recitar en martes)<br>3. Para alejar las adicciones (Recitar en martes)<br>4. Para obtener el fruto del trabajo (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 7'},
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra las pesadillas y las visiones (Recitar en martes)<br>2. Protección durante un viaje nocturno (Recitar en martes)<br>3. Para alejar las adicciones (Recitar en martes)<br>4. Para obtener el fruto del trabajo (Recitar en martes)<br><br> El Material ampliado se encuentra en el Shiur 12'},
 
+    {Categoria:'Librar, Espíritu Impuro, Protección Del Hogar 91<br><br>', 
+    nombre: 'Salmo: 91 (Para librar a una persona que esta afiligida por un espíritu impuro y para protección del hogar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Protección contra las fuerzas dañinas (Recitar en martes)<br>2. Protege de toda epidemia e infecciones (Recitar en martes)<br>3. Atrae la Paz en el hogar/Shalóm Habáit (Recitar en viernes)<br>4. Contrarresta el influjo negativo del mal de ojo (Recitar en martes)<br> El Material ampliado se encuentra en el Shiur 13'},
 
+    {Categoria:'Honores, Fortuna, 92<br><br>', 
+    nombre: 'Salmo: 92 (Para alcanzar altos honores y fortuna)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Hacedor de milagros (Recitar en viernes)<br>2. Para restablecer la energía y el vigor (Recitar en martes)<br> El Material ampliado se encuentra en el Shiur 13'},
 
+    {Categoria:'Victoria, Pleito 93<br><br>', 
+    nombre: 'Salmo: 93 (Para salir victorioso ante un pleito)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para problemas de hipertensión (Recitar en domingo)<br>2. Para atraer la abundancia y el bienestar (Recitar en martes)<br> El Material ampliado se encuentra en el Shiur 13'},
 
+    {Categoria:'Adversarios, Persecuciones 94<br><br>', 
+    nombre: 'Salmo: 94 (Contra los adversarios y las persecuciones)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Aleja a las personas vengativas (Recitar en martes)<br>2. Proporciona protección a las viudas, a los huérfanos y a los extranjeros<br>3. Facilita la educación de los hijos (Recitar en miércoles)<br>4. Revierte la decisión de un tribunal injusto (Recitar en jueves)<br> El Material ampliado se encuentra en el Shiur 13'},
+    
+    {Categoria:'Pleitos, Errores, Reparación, Tikún 95<br><br>', 
+    nombre: 'Salmo: 95 (Para pleitos y la reparación por los errores cometidos)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para lograr un buen reposo<br>2. Para no ser pertubado al vivir dentro de una ciudad (Recitar en martes)<br>3. Para recitar en un espacio sagrado (Sinagoga, el Kótel, la tumba de un Tzadík)<br> El Material ampliado se encuentra en el Shiur 13'},
 
+    {Categoria:'Armonia, Paz, Shalom, Hogar, 96<br><br>', 
+    nombre: 'Salmo: 96 (Para alcanzar la armonía y la paz en el hogar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Limpia un espacio físico de energías impuras (Recitar en martes)<br>2. Salmo para que la tierra sea fértil (Recitar en martes)<br>3. Salmo de protección a los árboles (Recitar en martes)<br> El Material ampliado se encuentra en el Shiur 13'},
+
+    {Categoria:'Armonia, Paz, Shalom, Hogar, 97<br><br>', 
+    nombre: 'Salmo: 97 (Para alcanzar la armonía y la paz en el hogar)<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br>1. Para liberarse de los adversarios (Recitar en martes)<br>2. Para vincularse con la energía del optimismo y la alegría (Recitar en domingo)<br> El Material ampliado se encuentra en el Shiur 13'},
+
+    {Categoria:', 91<br><br>', 
+    nombre: 'Salmo: 91 ()<br><br>', 
+    OtrasSegulot: 'Otras Segulot<br><br><br><br> El Material ampliado se encuentra en el Shiur 13'},
+
+    //CONTINUAR SHIUR 14
     //{Categoria:'Contra Enemigos, Salud', nombre: 'Salmo: 2 (Dolores de Cabeza)', OtrasSegulot: '1. Para apaciguar la tormenta interior.2. Para alejar las guerras y a los tiranos que oprimen a un pueblo o a una nación.3. Para recitar cuando un pueblo o una nación tenga que escoger a sus gobernantes.4. Para encontrar abrigo en el Eterno y recuperar la dignidad.5. Para desarrollar la intuición y la facultad de la sanación. El Material ampliado se encuentra en el Shiur 2 '},
     
 
